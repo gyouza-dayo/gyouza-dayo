@@ -1,4 +1,14 @@
-### Hi there 👋
+# 💬 Profile.
+26歳。 神奈川県在住。
+
+## :black_nib: Programming language.
+java / C# / VBA / HTML5 / CSS3 / javascript
+
+## :pencil2: DataBase.
+Oracle / MySQL / MongoDB
+
+## :books: Tool
+Eclipse / Visual Studio / Android Studio / Redmine / Unity(予定)
 
 <!--
 **gyouza-dayo/gyouza-dayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
