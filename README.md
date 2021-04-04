@@ -2,7 +2,7 @@
 26歳。 神奈川県在住。
 
 ## :black_nib: Programming language.
-java / C# / VBA / HTML5 / CSS3 / javascript
+java / C# / VBA / HTML5 / CSS3 / javascript / PHP学習中
 
 ## :pencil2: DataBase.
 Oracle / MySQL / MongoDB
