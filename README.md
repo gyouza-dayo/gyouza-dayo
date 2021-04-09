@@ -8,7 +8,7 @@ java / C# / VBA / HTML5 / CSS3 / javascript / PHP学習中
 Oracle / MySQL / MongoDB
 
 ## :books: Tool
-Eclipse / Visual Studio / Android Studio / Redmine / Unity(予定)
+Eclipse / Visual Studio / Android Studio / Redmine
 
 <!--
 **gyouza-dayo/gyouza-dayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
