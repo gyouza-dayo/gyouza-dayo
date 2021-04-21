@@ -1,5 +1,5 @@
 ## 💬 Profile.
-26歳。 神奈川県在住。
+26歳。 神奈川県在住。 餃子が好き。
 
 ## :black_nib: Programming language.
 java / C# / VBA / HTML5 / CSS3 / javascript / SpringBoot学習中
