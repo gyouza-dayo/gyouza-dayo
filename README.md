@@ -8,7 +8,7 @@ java / C# / VBA / HTML5 / CSS3 / javascript / SpringBoot学習中
 Oracle / MySQL / MongoDB / MariaDB
 
 ## :books: Tool.
-Eclipse / Visual Studio / Android Studio / VS Code / Redmine
+Eclipse / Visual Studio / Android Studio / VS Code / STS / Redmine / Git
 
 ## :tophat: State.
 <!-- リポジトリステータス -->
