@@ -2,7 +2,8 @@
 26歳。 神奈川県在住。 餃子が好き。
 
 ## :black_nib: Programming language.
-java / C# / VBA / HTML5 / CSS3 / javascript / SpringBoot学習中
+現場経験　|　java / C# / VBA  
+学習中　　|　SpringBoot / HTML5 / CSS3 / javascript
 
 ## :pencil2: DataBase.
 Oracle / MySQL / MongoDB / MariaDB
